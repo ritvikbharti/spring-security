@@ -1,10 +1,8 @@
-package com.ritvik.spring_security;
+package com.ritvik.spring_security.model;
 
-import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.stereotype.Component;
 
 @AllArgsConstructor
 @NoArgsConstructor

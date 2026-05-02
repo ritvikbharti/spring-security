@@ -1,5 +1,6 @@
-package com.ritvik.spring_security;
+package com.ritvik.spring_security.controller;
 
+import com.ritvik.spring_security.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;
